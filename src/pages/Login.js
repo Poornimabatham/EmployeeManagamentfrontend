@@ -47,7 +47,14 @@ export default function Login() {
         </button>
       </form>
       <p>
-        No account? <Link to="/register">Register</Link>
+        No account?
+        <Link
+          to="/register"
+          className="btn btn-primary text-white"
+          style={{ padding: "0.2rem 0.5rem" ,margin:"10px 10px"}}
+        >
+          Register
+        </Link>
       </p>
     </div>
   );

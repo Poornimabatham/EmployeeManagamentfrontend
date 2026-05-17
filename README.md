@@ -68,3 +68,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# JWT_SECRET=your_secret_key_here
+# DB_HOST=mysql.railway.internal
+# DB_USER=root
+# DB_PASSWORD=cUwJHSEDOtZZHVXssxTgbwrvMVrhyiGs
+# DB_NAME=railway
+ADMIN_SECRET=admin@123
+EMAIL_USER=pbatham21@gmail.com
+EMAIL_PASS=fkhyhvnihckxqtrg
+# PORT=3306
+
+
+DB_HOST=localhost
+DB_PORT=3306
+DB_USER=root
+DB_PASSWORD=""
+DB_NAME=attendance_management
+
+
+
+

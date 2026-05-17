@@ -71,7 +71,14 @@ export default function Register() {
         </button>
       </form>
       <p>
-        Already have an account? <Link to="/login">Login</Link>
+        Already have an account?{" "}
+        <Link
+          to="/login"
+          className="btn btn-success text-white"
+          style={{ padding: "0.2rem 0.8rem", margin: "10px 10px" }}
+        >
+          login
+        </Link>
       </p>
     </div>
   );
